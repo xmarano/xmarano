@@ -1,1 +1,1 @@
-[![MasterHead](./banner.gif)]
+![MasterHead](./banner.gif)
