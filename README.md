@@ -7,8 +7,8 @@
 📄 My CV is available [Here](https://media.licdn.com/dms/image/D4D1FAQHPKQyKEWk7Zg/feedshare-document-images_1280/1/1707727385550?e=1709164800&v=beta&t=dvBtn-0RUyHF6ouuZIyMD6CU9zrTQLWaMHYwCt0n3fw)<br>
 
 # 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=xmarano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=xmarano&layout=donut&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=xmarano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
