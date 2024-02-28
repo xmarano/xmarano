@@ -4,7 +4,7 @@
 💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
 🔭 Currently working on MINISHELL1, recreate a shell<br>
 🌱 Currently seeking a 5 months internship opportunity for the start of my second year<br>
-📄 My CV is available [Here](https://media.licdn.com/dms/image/D4D1FAQHPKQyKEWk7Zg/feedshare-document-images_1280/1/1707727385550?e=1709164800&v=beta&t=dvBtn-0RUyHF6ouuZIyMD6CU9zrTQLWaMHYwCt0n3fw)<br>
+📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 
 # 🏆 GitHub Stats
 ![](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=xmarano&layout=donut&show_icons=true&theme=tokyonight)<br>
