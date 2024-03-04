@@ -2,7 +2,7 @@
 
 # 💫 About Me
 💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
-🔭 Currently working on __Robot Factory__, the Corewar tournament<br>
+🔭 Currently working on ==Robot Factory==, the Corewar tournament<br>
 🌱 Currently seeking a 5 months internship opportunity for the start of my second year<br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 
