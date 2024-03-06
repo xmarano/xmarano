@@ -5,6 +5,7 @@
 🔭 Currently working on [___Robot Factory___](https://github.com/xmarano/Epitech_robotfactory), the Corewar tournament<br>
 🌱 Currently seeking a 5 months internship opportunity for the start of my second year<br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
+🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
 
 # 🏆 GitHub Stats
 ![](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=xmarano&layout=donut&show_icons=true&theme=tokyonight)<br>
@@ -32,5 +33,3 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/xmarano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogregori/)
 [![Email](https://img.shields.io/badge/Email-%237C3AED.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leo.gregori@epitech.eu)
-<br>
-[![MasterHead](./root_me.png)](https://www.root-me.org/leo_gregori)
