@@ -6,7 +6,7 @@
 🌱 Currently seeking a 5 months internship opportunity for the start of my second year<br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
-![](https://komarev.com/ghpvc/?username=xmarano&label=%20%F0%9F%90%B5%20views%20%20%20%20&style=flat-square&color=8c00ff&base=31)<br>
+<br><br>![](https://komarev.com/ghpvc/?username=xmarano&label=%20%F0%9F%90%B5%20views%20%20%20%20&style=flat-square&color=8c00ff&base=31)<br>
 
 # 🏆 GitHub Stats
 ![](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=xmarano&layout=donut&show_icons=true&theme=tokyonight)<br>
