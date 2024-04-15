@@ -2,7 +2,7 @@
 
 # 💫 About Me
 💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
-🔭 Currently working on [___MINISHELL2___](https://github.com/xmarano/Epitech_minishell2), recreate a shell 2<br>
+🔭 Currently working on [___MY_RPG___](https://github.com/xmarano/Epitech_rpg), create a RPG<br>
 🌱 Currently seeking a 5 months internship opportunity for the start of my second year<br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
