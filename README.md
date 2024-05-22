@@ -6,7 +6,7 @@
 🔭 Currently working on :<br>
     • [___MY_RPG___](https://github.com/xmarano/Epitech_rpg), create a RPG game in CSFML<br>
     • [___COREWAR___](https://github.com/xmarano/Epitech_corewar), fighting programs simulation into a vm<br>
-    • [___42sh___](https://github.com/xmarano/Epitech_42sh), crate a whole Unix SHELL based on TCSH<br>
+    • [___42sh___](https://github.com/xmarano/Epitech_42sh), create a whole Unix SHELL based on TCSH<br>
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
