@@ -3,7 +3,7 @@
 # 💫 About Me
 💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
 <br>
-🔭 Currently working on [___MY_RPG___](https://github.com/xmarano/Epitech_rpg), create a RPG game in CSFML<br>
+🔭 Currently working on [___my portfolio___](https://github.com/xmarano/portfolio)<br>
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
