@@ -3,7 +3,7 @@
 # 💫 About Me
 💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
 <br>
-🔭 <h3>Currently working on :</h3><br>
+<h3>🔭 Currently working on :</h3>
     • an [___iOS App___](https://github.com/xmarano/app_deliveries), create an iOS Tracking delivery app in Swift<br>
     • [___my portfolio___](https://github.com/xmarano/portfolio), simply portfolio in HTML/CSS<br>
     • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps<br>
