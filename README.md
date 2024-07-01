@@ -6,7 +6,7 @@
 🔭 Currently working on :<br>
     • an [___iOS App___](https://github.com/xmarano/app_deliveries), create an iOS Tracking delivery app in Swift<br>
     • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in HTML/CSS<br>
-    • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps<br>
+    • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps (private repository for now)<br>
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
