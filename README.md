@@ -13,7 +13,6 @@
 🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
 
 # 🏆 GitHub Stats
-![](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=xmarano&layout=donut&show_icons=true&theme=tokyonight)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight)<br>
 ![](https://github-readme-stats.vercel.app/api?username=xmarano&show_icons=true&theme=tokyonight)<br>
 
