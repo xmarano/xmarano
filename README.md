@@ -1,16 +1,16 @@
 ![MasterHead](./kame_house_banner.gif)
 
 # 💫 About Me
-💬 First-year Epitech student with a passion for Cyber Security & full-stack development<br>
+💬 First-year Epitech student with a passion for Machine Learning (AI), Cyber Security & full-stack dev<br>
 <br>
 🔭 Currently working on :<br>
-    • an [___iOS App___](https://github.com/xmarano/app_deliveries), create an iOS Tracking delivery app in Swift (private repository for now)<br>
     • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in HTML/CSS<br>
-    • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps<br>
+<br>
+🥴 Recently worked on :<br>
+    • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps (its about IP)<br>
     • [___Swift tracking API___](https://github.com/xmarano/App_TrackingAPI), testing tracking API in swift to build iOS apps<br>
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
-🧢 [__Root-me__](https://www.root-me.org/leo_gregori)<br>
 
 # 🏆 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight)<br>
