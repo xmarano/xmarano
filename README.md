@@ -1,3 +1,9 @@
+‘‘‘
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
+‘‘‘
+
+
 ![MasterHead](./kame_house_banner.gif)
 
 # 💫 About Me
