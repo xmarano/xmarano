@@ -4,7 +4,7 @@
 💬 First-year Epitech student with a passion for Machine Learning (AI), Cyber Security & full-stack dev<br>
 <br>
 🔭 Currently working on :<br>
-    • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in HTML/CSS<br>
+    • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in TSX<br>
 <br>
 🥴 Recently worked on :<br>
     • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps (its about IP)<br>
