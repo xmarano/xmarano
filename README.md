@@ -1,7 +1,7 @@
 ![MasterHead](./kame_house_banner.gif)
 
 # 💫 About Me
-💬 First-year Epitech student with a passion for Machine Learning (AI), Cyber Security & full-stack dev<br>
+💬 Second-year Epitech student with a passion for Machine Learning (AI), Cyber Security & full-stack dev<br>
 <br>
 🔭 Currently working on :<br>
     • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in TSX<br>
