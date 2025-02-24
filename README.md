@@ -13,8 +13,16 @@
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 
 # 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight)<br>
-![](https://github-readme-stats.vercel.app/api?username=xmarano&show_icons=true&theme=tokyonight)<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=xmarano&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.github.com/xmarano)
