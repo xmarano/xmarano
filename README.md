@@ -1,16 +1,13 @@
-![MasterHead](./kame_house_banner.gif)
+<center>
+    <img src="./kame_house_banner.gif" width="50%"/>
+</center>
 
 # 💫 About Me
 💬 Second-year Epitech student with a passion for Machine Learning (AI), Cyber Security & full-stack dev<br>
 <br>
-🔭 Currently working on :<br>
-    • [___My portfolio___](https://github.com/xmarano/portfolio), simply portfolio in TSX<br>
+🥴 Currently working on [@NovationLabs](https://github.com/NovationLabs)<br>
 <br>
-🥴 Recently worked on :<br>
-    • [___Swift request API___](https://github.com/xmarano/App_RequestAPI), testing APIs in swift to build iOS apps (its about IP)<br>
-    • [___Swift tracking API___](https://github.com/xmarano/App_TrackingAPI), testing tracking API in swift to build iOS apps<br>
-<br>
-📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
+📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf) (not updated)<br>
 
 # 🏆 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight" width="30%" /> <img src="https://github-readme-stats.vercel.app/api?username=xmarano&show_icons=true&theme=tokyonight" width="40%" />
