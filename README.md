@@ -6,7 +6,7 @@
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf) (not updated)<br>
 
-# 🏆 GitHub Stats
+# 🏆 RootMe & GitHub Stats
 <img src="https://rootme-readme-stats.vercel.app/api?username=leo_gregori" width="30%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight" width="30%"/>
 
 [![wakatime](https://wakatime.com/badge/user/c6917d36-80d3-4e6b-886d-a998a8fa25cf.svg)](https://wakatime.com/@c6917d36-80d3-4e6b-886d-a998a8fa25cf)
