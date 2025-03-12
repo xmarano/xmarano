@@ -11,8 +11,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/c6917d36-80d3-4e6b-886d-a998a8fa25cf.svg)](https://wakatime.com/@c6917d36-80d3-4e6b-886d-a998a8fa25cf)
 
-# 🌐 Socials
+# 🐉 Socials
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/xmarano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogregori/)
-
-<img src="./goku-github.gif" width="20%"/>
