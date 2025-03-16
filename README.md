@@ -1,6 +1,6 @@
 
 # 💫 About Me
-😼 2nd Year student at Epitech<br>
+🌃 2nd Year student at Epitech<br>
 😻 I looooove **Machine Learning**, **Cyber Security**, **Full-Stack** dev & **Web3**<br>
 🥴 Currently working on [@NovationLabs](https://github.com/NovationLabs)<br>
 <br>
