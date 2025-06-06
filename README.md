@@ -4,7 +4,7 @@
 😻 I looooove **Machine Learning**, **Cyber Security**, **Full-Stack** dev & **Web3**<br>
 🥴 Currently working on [@NovationLabs](https://github.com/NovationLabs)<br>
 <br>
-📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf) (not updated)<br>
+📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv-leo_gregori.pdf) (S1 2025)<br>
 
 # 🏆 RootMe & GitHub Stats
 <img src="https://rootme-readme-stats.vercel.app/api?username=leo_gregori" width="30%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmarano&layout=compact&theme=tokyonight" width="30%"/>
