@@ -1,7 +1,7 @@
 
 # 💫 About Me
 🌃 3rd Year student at Epitech<br>
-😻 I looooove **Machine Learning**, **Cyber Security**, **Full-Stack** dev & **Web3**<br>
+😻 I looooove **Machine Learning**, **DevOps**, **Cyber Security**, & **Full-Stack** dev<br>
 🥴 Currently working on [@NovationLabs](https://github.com/NovationLabs)<br>
 <br>
 📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv-leo_gregori.pdf) (S1 2025)<br>
